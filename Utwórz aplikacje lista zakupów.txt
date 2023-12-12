@@ -1,0 +1,7 @@
+Utwórz aplikacje na kosnole o nazwie lista zakupów. Lista zakupów zabiera dowolną ilość zakupów dodane z konsoli na następujące towary:
+
+	- Nabiał 
+	- Warzywa 
+	- Pieczywo 
+
+Konsola pobiera ceny tych towarów oraz wynacza sumę wydanych pieniędzy. Użyj vectora z obiektem zakupy.
